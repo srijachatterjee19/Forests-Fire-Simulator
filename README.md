@@ -1,4 +1,4 @@
-# Forests-Fire-Simulator
+# Forests-Fire-Simulator 🔥
 
 This project was builtto models the spread of fire in a 2D forest environment as a part of the MOD003197 Object Oriented C++ module. Fire simulation can be modelled in software and is an important area of research in fire safetyi,fire drill managementii, fire investigationiii, and with applications in many computer
 game scenariosiv .One way to look at the world in software is to study a process as a group of smaller pieces (or cells or sites) that are somehow related. For example the world can be viewed as a rectangular grid of cells. Rules specify how a cell changes state over time based on the states of the
